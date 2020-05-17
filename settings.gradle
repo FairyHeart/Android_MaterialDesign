@@ -1,3 +1,4 @@
 rootProject.name='MaterialDesign'
 include ':app'
 include ':recyclerview'
+include ':lib_recyclerview'
